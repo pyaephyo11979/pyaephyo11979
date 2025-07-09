@@ -1,6 +1,19 @@
 # 💫 About Me:
-I'm currently a Computer Science Student who's learning web development and looking forward to learn mobile development.
+## 👋 Hello there! I'm Pyae Phyo Hlaing
 
+🎓 I'm a Computer Science student at the University of Computer Studies, Pathein (UCS-P) and also pursuing a Bachelor's degree at the University of the People.
+
+💻 I'm passionate about full-stack development, distributed systems, and building real-world projects that solve real-world problems. I love working with technologies like:
+- 🌐 **MERN stack**, **Laravel**, and **ASP.NET**
+- 💾 **MySQL**, **MongoDB**, and **SQL Server**
+- 🔗 **Java RMI**, **Python**, and **Bash scripting**
+
+🚀 I enjoy turning ideas into code and continuously learning new tools and technologies. Some of my favorite projects include:
+- ✅ **Career Hub** – a work searching platform built with React + Laravel
+- ✅ **Remote Voting System** – a secure voting app using Java RMI
+- ✅ **QR-based POS System** – with receipt generation and user authentication
+
+🌍 I'm currently exploring opportunities to work on **open-source**, **remote internships**, and **collaborative tech communities**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pyaephyo.hlaing.007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pyae_p_h) 
