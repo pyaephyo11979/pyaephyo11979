@@ -10,8 +10,6 @@
 
 🚀 I enjoy turning ideas into code and continuously learning new tools and technologies. Some of my favorite projects include:
 - ✅ **Career Hub** – a work searching platform built with React + Laravel
-- ✅ **Remote Voting System** – a secure voting app using Java RMI
-- ✅ **QR-based POS System** – with receipt generation and user authentication
 
 🌍 I'm currently exploring opportunities to work on **open-source**, **remote internships**, and **collaborative tech communities**.
 
